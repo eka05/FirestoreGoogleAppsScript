@@ -20,8 +20,7 @@ As of **v27**, this project has been updated to use the [GAS V8 runtime](//devel
 
 ## Installation
 In the Google online script editor, select the `Resources` menu item and choose `Libraries...`. In the "Add a library" input box, enter **`1VUSl4b1r1eoNcRWotZM3e87ygkxvXltOgyDZhixqncz9lQ3MjfT1iKFw`** and click "Add." Choose the most recent version number.
-Eka's Libraries
-**'1OiT_uN7VHvKR8tWW2M1YmoqlULXyhswalvk4teK2zkhEtxOSHxBc6Pjo'**
+Eka's Libraries **`1OiT_uN7VHvKR8tWW2M1YmoqlULXyhswalvk4teK2zkhEtxOSHxBc6Pjo`**
 
 ## Quick start
 #### Creating a service account
